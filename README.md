@@ -19,7 +19,7 @@
 
 ## License
 
-reactNativeOpencvTutorial is copyright © 2014-2018 [Brainhub](https://brainhub.eu/) It is free software, and may be redistributed under the terms specified in the [license](LICENSE.md).
+reactNativeOpencvTutorial is copyright © 2014-2018 [Brainhub](https://brainhub.eu/) It is free software, and may be redistributed under the terms specified in the [license](LICENSE.MD).
 
 ## About
 
