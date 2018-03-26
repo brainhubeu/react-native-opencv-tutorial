@@ -1,3 +1,6 @@
+# What this tutorial is about
+  How to use OpenCV for data processing togeether with React Native
+
 # Prerequisites
 
 1. XCode
