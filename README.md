@@ -8,6 +8,10 @@ The examples below show the situation right after taking a photo. The first one 
 ![Blurred photo](./images/blurred_photo.png)
 ![Clear photo](./images/clear_photo.png)
 
+# Blog post
+
+https://brainhub.eu/blog/opencv-react-native-image-processing/
+
 # Prerequisites
 
 1. XCode
