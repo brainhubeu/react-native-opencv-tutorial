@@ -45,7 +45,7 @@ If you do not have `React Native` installed, type `npm i -g react-native-cli` in
 
 ## License
 
-reactNativeOpencvTutorial is copyright © 2014-2018 [Brainhub](https://brainhub.eu/) It is free software, and may be redistributed under the terms specified in the [license](LICENSE.MD).
+reactNativeOpencvTutorial is copyright © 2014-2018 [Brainhub](https://brainhub.eu/?utm_source=github) It is free software, and may be redistributed under the terms specified in the [license](LICENSE.MD).
 
 ## About
 
