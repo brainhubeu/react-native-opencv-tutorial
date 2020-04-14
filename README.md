@@ -1,6 +1,7 @@
 # react-native-opencv-tutorial
 
 [![license](https://img.shields.io/badge/License-MIT-green)](https://img.shields.io/badge/License-MIT-green)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## What this tutorial is about
 This tutorial is how to use React Native together with OpenCV for image processing. This example uses native Java and Objective-C bindings for OpenCV. In this example we use the device's camera to take a photo and detect whether the taken photo is clear or blurred.
