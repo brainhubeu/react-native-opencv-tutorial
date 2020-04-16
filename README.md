@@ -1,6 +1,6 @@
 # react-native-opencv-tutorial
 
-[![license](https://img.shields.io/badge/License-MIT-green)](https://img.shields.io/badge/License-MIT-green)
+[![license](https://img.shields.io/badge/License-MIT-green)](https://github.com/brainhubeu/react-native-opencv-tutorial/blob/master/LICENSE.MD)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## What this tutorial is about
